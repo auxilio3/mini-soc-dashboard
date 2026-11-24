@@ -4,6 +4,8 @@ A home-lab Security Operations Center built on the **Elastic Stack**. It covers 
 
 > **Origin:** My FIU capstone team (CIS3950, Spring 2026) designed this SOC: the mission and scope, 8 detection use cases, severity scheme, and dashboard layout. I was Product Owner. The capstone ended at the design stage, so I built this working implementation myself.
 
+![Dashboard screenshot](docs/dashboard.png)
+
 ## How it works
 
 ```mermaid
